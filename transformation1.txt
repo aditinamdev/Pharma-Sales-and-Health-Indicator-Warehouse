@@ -1,0 +1,6 @@
+parse-as-csv :body ',' true
+drop :body
+fill-null-or-empty :State_FIPS_Code 'none'
+send-to-error empty(Population_Size)
+drop Strata_ID_Number
+rename Strata_Determining_Factors Factors

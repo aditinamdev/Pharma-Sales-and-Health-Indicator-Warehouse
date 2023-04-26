@@ -1,0 +1,224 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "State_FIPS_Code",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "County_FIPS_Code",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "CHSI_County_Name",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "CHSI_State_Name",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "CHSI_State_Abbr",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Strata_ID_Number",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Strata_Determining_Factors",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Number_Counties",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Population_Size",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Population_Size",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Population_Size",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Population_Density",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Population_Density",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Population_Density",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Poverty",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Poverty",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Poverty",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Age_19_Under",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Age_19_Under",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Age_19_Under",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Age_19_64",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Age_19_64",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Age_19_65",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Age_65_84",
+      "type": "FLOAT",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Age_65_84",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Age_65_85",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Age_85_and_Over",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Age_85_and_Over",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Age_85_and_Over",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "White",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_White",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_White",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Black",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Black",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Black",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Native_American",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Native_American",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Native_American",
+      "type": "FLOAT",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Asian",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Asian",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Asian",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Hispanic",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Min_Hispanic",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Max_Hispanic",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    }
+  ]
+}

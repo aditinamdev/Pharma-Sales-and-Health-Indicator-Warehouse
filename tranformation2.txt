@@ -1,0 +1,16 @@
+parse-as-csv :body ',' true
+drop :body
+fill-null-or-empty :County_FIPS_Code 'none'
+send-to-error empty(CHSI_County_Name)
+drop A_Wh_Comp
+drop CI_Min_A_Wh_Comp
+drop CI_Max_A_Wh_Comp
+drop A_Bl_Comp
+drop CI_Min_A_Bl_Comp
+drop CI_Max_A_Bl_Comp
+drop A_Ot_Comp
+drop A_Ot_Comp
+drop CI_Min_A_Ot_Comp
+drop CI_Max_A_Ot_Comp
+drop A_Hi_Comp
+rename Strata_ID_Number ID_Number

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "etlSchemaBody",
+        "schema": {
+            "type": "record",
+            "name": "text",
+            "fields": [
+                {
+                    "name": "body",
+                    "type": "string"
+                }
+            ]
+        }
+    }
+]
